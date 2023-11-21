@@ -1,4 +1,4 @@
-# Blasterbiblio
+# Baslerbiblio
 
 This is a library used to control a Basler's camera easily.
 
